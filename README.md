@@ -77,6 +77,6 @@
 </p>
 <h3>Statistical Data</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AustinZhu&show_icons=true&locale=en&theme=transparent&layout=compact" alt="AustinZhu Languages" height="144" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AustinZhu&show_icons=true&locale=en&theme=transparent&count_private=true" height="144" alt="AustinZhu Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=AustinZhu&show_icons=true&locale=en&theme=transparent&layout=compact" alt="AustinZhu Languages" height="144" />
+  <img src="https://github-readme-stats.shion.dev/api?username=AustinZhu&show_icons=true&locale=en&theme=transparent&count_private=true" height="144" alt="AustinZhu Stats" />
 </div>
